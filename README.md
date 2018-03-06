@@ -1,11 +1,15 @@
-# Flow XO Coding Challenges
+# Flow XO coding challenges
 
 We'll ask you what kind of challenge we'd like you to complete (you'll find the challenge(s) within this repo). In all cases, follow the guidelines below for how to approach the task and what to include.
 
-## Approaching this task
+## The tasks
 
-- Only take a few hours at most to complete this task.
-- If you don't have time to complete it, that's perfectly OK. It is important that the work you do provide is high quality (production ready).
+- [Birthdays](birthdays.md)
+
+## Approaching the task
+
+- Only take a few hours at most to complete your task.
+- If you don't have time to complete it, that's perfectly OK. It's important that the work you do provide is high quality (production ready).
 - You can use boilerplate code to kick off the project, but make sure you explain this in the README.
 - Create your own repository for this project and check-in frequently (every 15 mins or so), so we can see how your work progresses over time.
 - When you're done, share a link to your repository with us.
@@ -31,3 +35,7 @@ When we review your work, we'll be looking for:
 - Tests are in place and provide good basic coverage.
 - UX is good.
 - The technical choices (libraries, patterns) are sensible.
+
+## Thank you!
+
+You're taking up your well earned spare time to do this, and we appreciate that. We'll review your work carefully and always give you feedback.
