@@ -1,4 +1,4 @@
-# coding-challenges
+# Flow XO Coding Challenges
 
 We'll ask you what kind of challenge we'd like you to complete (you'll find the challenge(s) within this repo). In all cases, follow the guidelines below for how to approach the task and what to include.
 
