@@ -10,13 +10,13 @@ Your parser will take a string (example below), and replace one or more pieces o
 
 You can assume that the example object's top-level keys will always be a hexadecimal key of length 8 characters.
 
-If there is no matching object for a placeholder, you should insert the string '<nothing>'.
+If there is no matching object for a placeholder, you should insert the string '\<nothing\>'.
   
 ## Example string
 
 ```
-This is a string with {{ ab49fd20.key_1 }}, including {{ 9822df87.another_key }} and also {{ ab49fd20.key_2 }}.
-
+This is a string with {{ ab49fd20.key_1 }}, including {{ 9822df87.another_key }}
+and also {{ ab49fd20.key_2 }}.
 ```
 
 ## Example object
