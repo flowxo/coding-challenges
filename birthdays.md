@@ -54,4 +54,5 @@ If you have a little more time, add these extra bells and whistles to your app:
 - Server side JavaScript
 - Structuring an API endpoint
 - Designing a simple UI
+- Unit tests
 - HTML/CSS
