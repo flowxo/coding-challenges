@@ -14,7 +14,7 @@ Important: Make sure you also view our [coding challenge guidelines](README.md).
 
 - The UI should be a client side JavaScript app.
 - For this challenge, there is no need to create any server side JS or API.
-- Use the data format below to initialise the app.
+- Use the data below to initialise the app.
 - Use any JavaScript frameworks you prefer.
 - There should be tests included for the front end, use whatever testing frameworks/libraries you prefer.
 
