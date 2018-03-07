@@ -48,4 +48,4 @@ This is a string with some data, including big data and also <nothing>.
 
 - Client side JavaScript
 - General coding skills
-- Unit testing
+- Testing
