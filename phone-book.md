@@ -44,5 +44,5 @@ Important: Make sure you also view our [coding challenge guidelines](README.md).
 
 - Client side JavaScript
 - Designing a simple UI
-- Unit tests
+- Testing
 - HTML/CSS
