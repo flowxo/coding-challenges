@@ -4,11 +4,12 @@ The aim is to create a small web app that allows you to keep track of birthdays.
 
 When you open the app, you'll be able to see whose birthdays are today, or coming up in the next 2 weeks. It will also tell you how old they are (or will be).
 
-Make sure you also view our [coding challenge guidelines](README.md).
+Important: Make sure you also view our [coding challenge guidelines](README.md).
 
 ## Main features
 
 - A single UI page that shows you today's birthdays, upcoming birthdays (next 2 weeks), and a list view of all the people whose birthdays you're keeping track of.
+- For today's birthdays and upcoming, show how old that person is (or will be).
 - The list should show the person's name and date of birth.
 - The ability to add a new birthday to the list, requiring the person's name and date of birth (add some validation).
 - You should be able to delete birthdays too.
@@ -46,3 +47,11 @@ If you have a little more time, add these extra bells and whistles to your app:
   }
 ]
 ```
+
+## Skills tested
+
+- Client side JavaScript
+- Server side JavaScript
+- Structuring an API endpoint
+- Designing a simple UI
+- HTML/CSS
