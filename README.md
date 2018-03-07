@@ -7,6 +7,8 @@ We'll ask you what kind of challenge we'd like you to complete (you'll find the 
 ## The challenges
 
 - [Birthdays](birthdays.md)
+- [Phone Book](phone-book.md)
+- [String Parser](string-parser.md)
 
 ## Approaching the challenge
 
