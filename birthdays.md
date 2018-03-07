@@ -25,7 +25,7 @@ If you have a little more time, add these extra bells and whistles to your app:
 
 - The UI should be a client side JavaScript app.
 - You should use an API built in Node.js to store the data. There's no need to persist the data or use any kind of database, unless you want to.
-- Use the data format below to initialise the app.
+- Use the data below to initialise the app.
 - Use any JavaScript frameworks you prefer. The only requirements are that you use Node.js for the server and JavaScript for the front-end.
 - There should be tests for both the API and the JavaScript front end, use whatever testing frameworks/libraries you prefer. You don't need to provide thorough test coverage, but cover the basics well.
 
