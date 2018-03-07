@@ -1,6 +1,8 @@
 # Flow XO coding challenges
 
-We'll ask you what kind of challenge we'd like you to complete (you'll find the challenge(s) within this repo). In all cases, follow the guidelines below for how to approach the challenge and what to include.
+These are coding challenges that you can either do for fun, or more likely, we'll ask you to work on as part of our developer recruitment process.
+
+We'll ask you what kind of challenge we'd like you to complete (you'll find the challenge(s) within this repo). Make sure you follow the guidelines below for how to approach the challenge and what to include.
 
 ## The challenges
 
@@ -11,7 +13,7 @@ We'll ask you what kind of challenge we'd like you to complete (you'll find the 
 - Only take a few hours at most to complete your challenge.
 - If you don't have time to complete it, that's perfectly OK. It's important that the work you do provide is high quality (production ready).
 - You can use boilerplate code to kick off the project, but make sure you explain this in the README.
-- Create your own repository for this project and check-in frequently (every 15 mins or so), so we can see how your work progresses over time.
+- Create your own repository for this project and commit very frequently, so we can see how your work progresses over time.
 - When you're done, share a link to your repository with us.
 
 ## The README
@@ -29,9 +31,10 @@ Always create a README file that includes:
 When we review your work, we'll be looking for:
 
 - Well organised and structured code.
+- Frequent commits so we can see how your work progressed. 
 - A good README file that explains succinctly your approach.
-- The app should work in the way that was explained.
-- The code is well written, readable, consistent, maintainable and follows best practice.
+- The app/project should work in the way that was explained.
+- The code is well written, readable, consistent, maintainable and follows broad best practice.
 - Tests are in place and provide good basic coverage.
 - UX is good.
 - The technical choices (libraries, patterns) are sensible.
