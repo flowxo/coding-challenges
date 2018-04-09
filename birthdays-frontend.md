@@ -52,6 +52,7 @@ Important: Make sure you also view our [coding challenge guidelines](README.md).
 - Designing a simple UI
 - HTML/CSS
 - Ability to put a layout together
+- UI/UX design skills
 
 ## Focus of the challenge
 
