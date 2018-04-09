@@ -3,7 +3,7 @@
 
 The aim is to create a user interface that allows you to keep track of birthdays.
 
-Note that this is a front-end focused variant on our main (birthdays challenge)[birthdays.md]. Please make sure you don't get the two confused!
+Note that this is a front-end focused variant on our main [birthdays challenge](birthdays.md). Please make sure you don't get the two confused!
 
 When you open the page, you'll be able to see whose birthdays are today, or coming up in the next 2 weeks. It will also tell you how old they are (or will be).
 
