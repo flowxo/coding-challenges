@@ -15,7 +15,6 @@ Important: Make sure you also view our [coding challenge guidelines](README.md).
 - A single UI page that shows you today's birthdays, upcoming birthdays (next 2 weeks), and a list view of all the people whose birthdays you're keeping track of.
 - For today's birthdays and upcoming, show how old that person is (or will be).
 - The list should show the person's name and date of birth, and a human friendly notation of when each person's birthday is to the list (3 days, 5 months, 6 weeks, etc.).
-- Add
 - The ability to add a new birthday to the list, requiring the person's name and date of birth.
 - A search option for the list, allowing you to filter by name.
 - There should be an option to delete birthdays too.
