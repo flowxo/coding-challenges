@@ -56,6 +56,8 @@ Important: Make sure you also view our [coding challenge guidelines](README.md).
 
 ## Focus of the challenge
 
-Try not to focus on tooling or the build process for this challenge, just do the bare minimum to enable to UI to run based on the instructions you give.
+Try not to focus on tooling or the build process for this challenge, just do the bare minimum to enable the UI to run based on the instructions you give.
+
+The idea of this challenge is to test your skills in putting together a great UI.
 
 Instead, it's important to show that you can put together a simple, well laid out UI that looks good. Be careful not to overcomplicate, and get the basics right.
